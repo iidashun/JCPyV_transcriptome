@@ -17,9 +17,5 @@ The R code shared here was used for the analysis of JC polyomavirus (JCPyV) tran
    Contains 
 3. Fig6<br>
    a
-ID	introns	description	Nanopore_tx_class
-293-E1	4770_4426	LT	6
-293-E2	4493_4426	ST	14
-293-E3	"4273_2777
-4770_4426"	T'136	11
+
 ![image](https://github.com/user-attachments/assets/17a67b2a-2f30-4c52-b512-587cc214b4a2)

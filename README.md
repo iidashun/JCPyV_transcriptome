@@ -9,11 +9,11 @@ The R code shared here was used for the analysis of JC polyomavirus (JCPyV) tran
 
 # Code
 1. Fig3_JCPyV_transcripts.r<br>
-   For visualization of JCPyV transcripts identified in the study.<br>
+   For the visualization of JCPyV transcripts identified in the study.<br>
 2. Fig4_Fig5_bubble_chart.r<br>
-   For visualization of read counts obtained in JCPyV wraparound amplicon sequencing using a bubble chart.<br>
+   For the visualization of read counts obtained in JCPyV wraparound amplicon sequencing using a bubble chart.<br>
 3. Fig6_JCPyV_NCCR.r<br>
-   For visualization of the noncoding control region (NCCR) of the JCPyV genome.<br>
+   For the visualization of the noncoding control region (NCCR) of the JCPyV genome.<br>
 
 # Data
 1. Fig3<br>

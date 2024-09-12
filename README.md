@@ -21,4 +21,4 @@ The R code shared here was used for the analysis of JC polyomavirus (JCPyV) tran
 2. Fig4_Fig5<br>
    Contains zip-archived SPANS files derived from amplicon sequencing of wraparound transcripts. CSV files summarize the properties of JCPyV transcripts identified in the study.<br>
 4. Fig6<br>
-   Contains zip-archived FASTA files of the JCPyV genome and a CSV file summarizing rearrangements, insertions, and deletions in the NCCR.<br>
+   Contains zip-archived FASTA files of the JCPyV genome and a CSV file summarizing rearrangements, substitutions, insertions, and deletions in the NCCR.<br>

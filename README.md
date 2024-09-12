@@ -4,8 +4,8 @@ The R code shared here was used for the analysis of JC polyomavirus (JCPyV) tran
 
 |Directory|Contents|
 |------|------|
-|R|R code for the analysis of transcriotpme data.|
-|data|Sequencing data in csv or fasta format.|
+|R|R code for the analysis of transcriptome data.|
+|data|Sequencing data in CSV or FASTA format.|
 
 # Code
 1. Fig3_JCPyV_transcripts.r<br>

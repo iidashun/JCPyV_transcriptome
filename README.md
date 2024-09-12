@@ -11,9 +11,9 @@ The R code shared here was used for the analysis of JC polyomavirus (JCPyV) tran
    For visualization of the noncoding control region (NCCR) of the JCPyV genome from the brain tissues of progressive multifocal leukoencephalopathy (PML) patients.<br>
 
 # Data
-1. Fig3
-  a
-2. Fig4_Fig5
-  a
-3. Fig6 
-  aa
+1. Fig3<br>
+   a
+2. Fig4_Fig5<br>
+   a
+3. Fig6<br>
+   a

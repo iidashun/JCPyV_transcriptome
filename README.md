@@ -3,14 +3,12 @@
 The R code shared here was used for the analysis of JC polyomavirus (JCPyV) transcriptome data. This repository also contains a portion of the data analyzed in the paper.
 
 # Code
-1. Fig3_JCPyV_transcripts.r
-   For visualization of JCPyV transcripts identified in the study.  
-
-2. Fig4_Fig5_bubble_chart.r
-   For visualization of read counts obtained in JCPyV wraparound amplicon sequencing using a bubble chart.  
-
-3. Fig6_JCPyV_NCCR.r
-   For visualization of the noncoding control region (NCCR) of the JCPyV genome from the brain tissues of progressive multifocal leukoencephalopathy (PML) patients.  
+1. Fig3_JCPyV_transcripts.r<br>
+   For visualization of JCPyV transcripts identified in the study.<br>
+2. Fig4_Fig5_bubble_chart.r<br>
+   For visualization of read counts obtained in JCPyV wraparound amplicon sequencing using a bubble chart.<br>
+3. Fig6_JCPyV_NCCR.r<br>
+   For visualization of the noncoding control region (NCCR) of the JCPyV genome from the brain tissues of progressive multifocal leukoencephalopathy (PML) patients.<br>
 
 # Data
 1. Fig3
